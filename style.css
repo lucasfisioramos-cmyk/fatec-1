@@ -15,7 +15,7 @@ body {
 
 /* Header & Navegação */
 .navbar {
-    border: 2px tomato
+    border: 2px tomato;
     background-color: #ffffff;
     height: 80px;
     display: flex;
@@ -27,13 +27,13 @@ body {
 }
 
 .header-container {
-    border: 2px
+    border: 2px;
     width: 100%;
     max-width: 1000px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    align-items: center
+    align-items: center;
 }
 
 .logo {
@@ -48,7 +48,8 @@ body {
 .logo-text{ 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: larger;}
-.logo-icon { margin-right: 10px;
+.logo-icon { 
+margin-right: auto;
 width: 50px;
 height: auto;
 }
@@ -56,7 +57,7 @@ height: auto;
 .nav-links {
     display: flex;
     list-style: none;
-    gap: 30px;
+    gap: 50px;
 }
 
 .nav-links a {
@@ -72,7 +73,8 @@ height: auto;
 
 /* Seções de Conteúdo */
 .hero {
-    height: 60vh;
+    border: solid black;
+    height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -97,12 +99,12 @@ height: auto;
 
 /* Formulário de Contato */
 .form-card {
-    background: #fff;
+    background: #5902fa;
     padding: 40px;
-    border-radius: 12px;
+    border-radius: 20px;
     box-shadow: 0 10px 25px rgba(0,0,0,0.05);
     max-width: 500px;
-    margin: 0 auto;
+    margin: 50px;
 }
 
 .form-card h2 { margin-bottom: 20px; text-align: center; }

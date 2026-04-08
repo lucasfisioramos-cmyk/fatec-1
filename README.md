@@ -1,2 +1,4 @@
 # Repositorio dev.fatec
-git add .
+- Primeiro site de design digital.
+- treinando HTML semantica, CSS, eventualmente JavaScript.
+- 

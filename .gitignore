@@ -1,7 +1,7 @@
-# No seu arquivo .gitignore
-#venv/
-#.venv/
-#__pycache__/
-#instance/
-#.env
+No seu arquivo .gitignore
+venv/
+.venv/
+__pycache__/
+instance/
+.env
 
